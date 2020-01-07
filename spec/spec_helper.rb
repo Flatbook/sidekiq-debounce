@@ -3,5 +3,5 @@ SimpleCov.start
 
 require 'minitest/spec'
 require 'minitest/autorun'
-require 'mocha/mini_test'
+require 'mocha/minitest'
 require 'sidekiq_helper'
